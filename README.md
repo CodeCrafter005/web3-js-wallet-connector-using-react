@@ -1,2 +1,5 @@
-# web3-js-wallet-connector-using-react
-It helps to show the address of our metamasks profile.
+# Connect Metamask Wallet ( or any wallet to your ReactJS app
+
+
+
+ [Youtube Video](https://youtu.be/e0UzwhuPf9U)
